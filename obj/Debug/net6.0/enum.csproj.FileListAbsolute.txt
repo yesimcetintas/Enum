@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/bin/Debug/net6.0/enum
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/bin/Debug/net6.0/enum.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/bin/Debug/net6.0/enum.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/bin/Debug/net6.0/enum.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/bin/Debug/net6.0/enum.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/obj/Debug/net6.0/enum.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/obj/Debug/net6.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/obj/Debug/net6.0/enum.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/obj/Debug/net6.0/enum.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/obj/Debug/net6.0/enum.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/obj/Debug/net6.0/enum.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/obj/Debug/net6.0/refint/enum.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/obj/Debug/net6.0/enum.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/obj/Debug/net6.0/enum.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/enum/obj/Debug/net6.0/ref/enum.dll
